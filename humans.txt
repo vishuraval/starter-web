@@ -4,7 +4,8 @@
 # TEAM
 
     <name> vishal raval <role> -- <twitter>
-
+          vishuraval99@gmail.com
+          Devops Engineer
 # THANKS
 
     <name>
