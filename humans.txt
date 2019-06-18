@@ -12,7 +12,7 @@
 changes made for repository
     <Swara> vishal raval
 =======
-    <name> swara is lovely daughter 
+    <name> swara is lovely daughter. loves to play in garden 
 >>>>>>> develop
 
 # TECHNOLOGY COLOPHON
