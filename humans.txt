@@ -8,8 +8,12 @@
           Devops Engineer
 # THANKS
 
+<<<<<<< HEAD
 changes made for repository
     <Swara> vishal raval
+=======
+    <name> swara 
+>>>>>>> develop
 
 # TECHNOLOGY COLOPHON
 
