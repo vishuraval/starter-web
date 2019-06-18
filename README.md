@@ -10,3 +10,5 @@ finally 40 lectures completed
 very lengthy course is devops 
 learn many commands
 Sample website with plenty of files for demos
+
+sample
